@@ -17,7 +17,7 @@ _(both files are attached to the project and are located in `librariesToInstall`
 * `AddUserNumbers` class (line 84)
 
 ### In order to set up MySQL database put the following credentials:
-**user**: user 
-**password**: sesame 
+* **user**: user 
+* **password**: sesame 
 
 * Note: You may have to change the ports, depending on which your Tomcat and MySQL databases are running locally. If you wish to run MySQL and Tomcat from docker, you should change all of the connection present in project to `jdbc:mysql://db:3306/lottery`
